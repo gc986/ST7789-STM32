@@ -1,6 +1,9 @@
 # ST7789-STM32
 Using STM32's Hardware SPI to drive a ST7789 based IPS display.
 
+![изображение](https://user-images.githubusercontent.com/8113569/143623745-3a506486-ecf1-48c5-88ff-13501dffd489.png)
+
+
 ## Supported Displays
 - 135*240 resolution  
 - 240*240 resolution  
