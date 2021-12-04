@@ -45,5 +45,5 @@ The simplest way is to configure these 2 GPIO to `Pull-up` Mode manually in Cube
 - [ZiangCheng](https://github.com/ZiangCheng)  
 
 
-##Как прошиваем
+## Как прошиваем
 <img src="https://user-images.githubusercontent.com/8113569/144718935-8010a9c0-4dc2-49c3-a58c-c14b7917705a.png"/>
